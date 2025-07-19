@@ -1,22 +1,22 @@
-# Calculator
+# 1.Calculator
 
-This is a simple calculator made using HTML, CSS, and JavaScript.
+A simple calculator that can add, subtract, multiply, and divide, The design is basic but neat - I had fun building it!
 
-It can do basic operations like:
+# 2.Tribute Page - Dr. A.P.J. Abdul Kalam 
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
+I created a heartfelt tribute page for the Missile Man of India, Dr.A.P.J Abdul kalam - Someone who deeply inspires me 
 
 ---
 
 ## 🔗 Live Website
 
-[Click here to open the calculator](https://smrutirekhaswain06.github.io/calculator/)
+[Click here to open the calculator](https://smrutirekhaswain06.github.io/oasis-infobyte-webdev-tasks/Task1_Calculator/calculator.html)
+<br>
+[Click here to open the tribute page](https://smrutirekhaswain06.github.io/oasis-infobyte-webdev-tasks/Task2_TributePage/tribute.html)
 
 ---
 
-## Made by
+**Thanks for visiting!**
+If you liked the work, feel free to ⭐ the repo and share some feedback!
 
-Smrutirekha Swain
+
