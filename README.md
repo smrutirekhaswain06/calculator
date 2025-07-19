@@ -14,6 +14,7 @@ It can do basic operations like:
 ## 🔗 Live Website
 
 [Click here to open the calculator](https://smrutirekhaswain06.github.io/calculator/)
+[Click here to open the tribute page](https://smrutirekhaswain06.github.io/calculator/tribute.html)
 
 ---
 
