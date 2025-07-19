@@ -1,13 +1,10 @@
-# Calculator
+# 1.Calculator
 
-This is a simple calculator made using HTML, CSS, and JavaScript.
+A simple calculator that can add, subtract, multiply, and divide, The design is basic but neat - I had fun building it!
 
-It can do basic operations like:
+# 2.Tribute Page - Dr. A.P.J. Abdul Kalam 
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
+I created a heartfelt tribute page for the Missile Man of India, Dr.A.P.J Abdul kalam - Someone who deeply inspires me 
 
 ---
 
@@ -19,6 +16,7 @@ It can do basic operations like:
 
 ---
 
-## Made by
+**Thanks for visiting!**
+If you liked the work, feel free to ⭐ the repo and share some feedback!
 
-Smrutirekha Swain
+
