@@ -10,9 +10,9 @@ I created a heartfelt tribute page for the Missile Man of India, Dr.A.P.J Abdul 
 
 ## 🔗 Live Website
 
-[Click here to open the calculator](https://smrutirekhaswain06.github.io/calculator/)
+[Click here to open the calculator](https://smrutirekhaswain06.github.io/oasis-infobyte-webdev-tasks/Task1_Calculator/calculator.html)
 <br>
-[Click here to open the tribute page](https://smrutirekhaswain06.github.io/calculator/tribute.html)
+[Click here to open the tribute page](https://smrutirekhaswain06.github.io/oasis-infobyte-webdev-tasks/Task2_TributePage/tribute.html)
 
 ---
 
