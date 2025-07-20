@@ -14,7 +14,7 @@ I created a heartfelt tribute page for the Missile Man of India, Dr.A.P.J Abdul 
 <br>
 [Click here to open the tribute page](https://smrutirekhaswain06.github.io/oasis-infobyte-webdev-tasks/Task2_TributePage/tribute.html)
 <br>
-[Click here to open the To-Do App](https://smrutirekhaswain06.github.io/oasis-infobyte-webdev-tasks/Task3/index.html)
+[Click here to open the To-Do App](https://smrutirekhaswain06.github.io/oasis-infobyte-webdev-tasks/Task3_ToDoApp/)
 ---
 
 **Thanks for visiting!**
