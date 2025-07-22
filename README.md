@@ -6,6 +6,10 @@ A simple calculator that can add, subtract, multiply, and divide, The design is 
 
 I created a heartfelt tribute page for the Missile Man of India, Dr.A.P.J Abdul kalam - Someone who deeply inspires me 
 
+# 3.ToDo App
+
+A simple todo list app where i can add, edit, delete, and complete tasks. Built using HTML, CSS and Javascript 
+
 ---
 
 ## 🔗 Live Website
